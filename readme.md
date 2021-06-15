@@ -1,4 +1,5 @@
-# Description...
+# Description
+
 Code for simulations described in:
 
 Alhama, R., Rowland, C. & Kidd, E. How much context is helpful for noun and verb acquisition?
