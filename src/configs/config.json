@@ -1,0 +1,44 @@
+  {
+  "subjects": {
+                "lang": "eng",
+                "agemin": 0,
+                "agemax": 60
+  },
+  "counts" : {
+                "win": 5,
+                "thr": 100,
+                "sub": null,
+                "del": "",
+                "pos": null,
+                "dyn": null
+  },
+  "ppmi": {
+                "cds": 0.75
+  },
+  "svd": {
+                "dim": 100,
+                "neg": 1
+  },
+  "sgns": {
+                "size": 100,
+                "pow": 0.75,
+                "negative": 15,
+                "alpha": null,
+                "iters": null
+  },
+  "post": {
+                "w+c": null,
+                "eig": 0.5,
+                "neg": 1
+  },
+  "eval_aoa": {
+                "index":   "indegree_train",
+                "threshold": "0.7",
+                "log":       null
+  },
+  "extract_aoa": {
+                "category": "nouns",
+                "proportion_cdi": 0.5,
+                "measure_cdi": "produces"
+  }
+}

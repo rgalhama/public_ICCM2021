@@ -1,0 +1,44 @@
+{
+    "counts": {
+        "del": null, 
+        "dyn": null, 
+        "pos": null, 
+        "sub": null, 
+        "thr": 50, 
+        "win": 2
+    }, 
+    "eval_aoa": {
+        "index": "indegree_train", 
+        "log": null, 
+        "threshold": "0.90"
+    }, 
+    "extract_aoa": {
+        "category": "verbs",
+        "measure_cdi": "produces",
+        "proportion_cdi": 0.5
+    }, 
+    "post": {
+        "eig": 1, 
+        "neg": 1, 
+        "w+c": null
+    }, 
+    "ppmi": {
+        "cds": 1
+    }, 
+    "sgns": {
+        "alpha": null, 
+        "iters": null, 
+        "negative": 0, 
+        "pow": 1, 
+        "size": 100
+    }, 
+    "subjects": {
+        "agemax": 60, 
+        "agemin": 0, 
+        "lang": "eng"
+    }, 
+    "svd": {
+        "dim": 100, 
+        "neg": 1
+    }
+}
